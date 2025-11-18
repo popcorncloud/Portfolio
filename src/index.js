@@ -1,13 +1,14 @@
+//lun dev code 
 // Require images so webpack knows to include them
-const saitama1 = require('../public/saitama1.png');
-const saitama2 = require('../public/saitama2.png');
-const saitama3 = require('../public/saitama3.png');
+const image1 = require('../public/image1.jpg');
+//const image2 = require('../public/image2.jpg');
+//const image3 = require('../public/image3.jpg');
 
 // ===== IMAGE CAROUSEL JS =====
 const imageUrls = [
-  saitama1,
-  saitama2,
-  saitama3
+  image1,
+  //image2,
+  //image3
   // Add more image filenames here if needed
 ];
 
